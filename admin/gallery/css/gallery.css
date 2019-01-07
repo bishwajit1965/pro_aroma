@@ -1,0 +1,64 @@
+/*Phto gallery*/
+<style>    
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: # ;
+}
+.border{
+  min-height: 8px;
+  background-color: #218838;
+  margin-bottom: 6px;
+}
+
+div.card {
+  width: 255px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  float:left;
+  margin-left:5px;
+  margin-right:5px;
+  margin-bottom:25px;
+}
+ 
+.header{
+  background-color: #DFE1E3;
+  padding: 10px 0px;
+}
+
+.footer{
+  background-color: #DFE1E3;
+}
+.link{
+  padding: 10px 20px;
+}
+.left{
+  width:50%;
+  float: left;
+}
+
+#photo-del{
+  width: 100%;
+  height:255px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.right{
+  width:50%;
+  float: left;
+  padding: 0px 20px;
+}
+
+.navigation{
+  padding-bottom: 15px;
+}
+.navigation a{
+  display: block;
+  margin-bottom: 3px;
+  text-align: left;
+}
+</style>
+/*/Photo gallery*/
